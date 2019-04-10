@@ -1,6 +1,6 @@
 {
 	"common":{
-		"filters":"Filters",
+		"filters":"",
 		"timeRange":"Time Range",
 		"dateRange":"Date Range",
 		"priceRange":"Price Range",
